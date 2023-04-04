@@ -3,4 +3,4 @@ Simon
 Dominion
 Mercy
 Sherry
-Yum
+Ym
